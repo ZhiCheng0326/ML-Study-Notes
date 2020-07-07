@@ -6,12 +6,13 @@
 ## Basic idea of UDP
 * Direction of projection, w based on the ratio of local scatter to non-local scatter. Therefore, the optimal projection:
 
-<img src="https://render.githubusercontent.com/render/math?math=w^* = arg\:min J(w) = \frac{J_L}{J_N}\\J_L=Local\:scatter,J_N=Non-local\:scatter">
-
-* Means we want:  
-<img src="https://render.githubusercontent.com/render/math?math=J_L\downarrow J_N\uparrow">  
-
-
+$$
+w^* = arg\:min J(w) = \frac{J_L}{J_N}\\J_L=Local\:scatter,J_N=Non-local\:scatter
+$$
+* Means we want:
+$$
+J_L\downarrow J_N\uparrow
+$$
 
 >Close data closer, distant data more distant.
 
