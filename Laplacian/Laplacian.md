@@ -8,7 +8,7 @@ $$
 
 Vector field             |  Topology
 :-------------------------:|:-------------------------:
-![Vector field](Laplacian_graph_img1.PNG)  |  ![Topology](Laplacian_graph_img2.PNG)
+![Vector field](./Laplacian_graph_img1.PNG)  |  ![Topology](./Laplacian_graph_img2.PNG)
 
 
 Referring left image, **positive** divergence diverges **out**, whereas **negative** divergence **converges** to a point.  
